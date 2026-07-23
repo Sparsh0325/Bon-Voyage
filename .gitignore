@@ -1,0 +1,19 @@
+# React
+client/node_modules/
+client/dist/
+
+# Spring Boot
+server/target/
+*.class
+
+# IDE
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
